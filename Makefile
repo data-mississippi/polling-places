@@ -1,10 +1,9 @@
 all : extracted/PollingPlaceChanges.json
 
 clean :
-	rm -rf intermediate/* extracted/*
+	rm -rf intermediate/* extracted/* raw/*
 
 extracted/%.json : raw/%.pdf
-	echo $<
 	python scripts/textract.py $^ > $@
 
 intermediate/%.jpg : raw/%.pdf

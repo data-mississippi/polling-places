@@ -1,1 +1,5 @@
 scripts/__pycache__
+
+extracted/*
+intermediate/*
+raw/*
