@@ -1,0 +1,473 @@
+COUNTY
+
+VOTING PRECINCT
+
+OLD POLLING LOCATION
+
+NEW POLLING LOCATION
+
+A�ala
+
+South West
+
+BLDG by Palestine Church
+16580 HWY 14 W. Kosciusko, MS
+
+Holmes Community College
+620 West Jeﬀerson St. Kosciusko, MS
+
+A�ala
+
+Newport
+
+HWY 14 W. Goodman, MS
+
+Longhorn Steakhouse
+9465 HWY 14 W, Sallis
+
+A�ala
+
+Sallis
+
+Salis Fire Station, Front Street, Sallis, MS 39160
+
+New St. James Church of God
+6041 Front Street, Sallis, MS 39160
+
+Anchor 001
+
+Anchor Voting House
+650 CR 416 WOODLAND MS 39776
+
+Pleasant Ridge Baptist Church Fellowship Hall
+906 CR 416 WOODLAND MS 39776
+
+Hebron
+
+Hebron Road
+7519 HEBRON ROAD EUPORA MS 39744
+
+Mt. Pisgah Baptist Church
+11980 MS HWY 9 EUPORA MS 39744
+
+South Collins
+
+1200 S Dogwood Ave, Collins, MS 39428
+
+1605 South Fir Ave., Collins, MS, 39428
+
+Forrest
+
+Sheeplo
+
+Piney Grove Masonic Lodge
+139 SHEEPLO LOOP, PETAL MS 39465
+
+Sheeplo Community Center
+160 MCGILVARY RD PETAL MS 39465
+
+Greene
+
+Leakesville
+
+Leakesville Community Center
+1627 CENTER ST, LEAKESVILLE MS 39451
+
+FBC Activities Building
+307 CAPITAL AVE LEAKESVILLE MS 39451
+
+Greene
+
+North Leakesville
+
+Fire House
+808 MAIN ST., LEAKESVILLE MS 39451
+
+Town Hall
+301-A LAFAYETTE AVE LEAKESVILLE MS 39451
+
+Harrison
+
+Biloxi #8
+
+Michel Middle School
+1400 FATHER RYAN AVENUE, BILOXI MS 39530
+
+Lopez Elementary School
+140 ST. JOHN AVENUE BILOXI MS 39530
+
+Harrison
+
+E Orange Grove
+
+Harrison Central Elementary School
+15451 DEDEAUX RD, GULFPORT MS 39503
+
+St. Joseph Catholic Church
+12290 DEPEW RD GULFPORT MS 39503
+
+Hinds
+
+Edwards
+
+Edwards Library,
+105 WILLIAMSON AVE, EDWARDS MS 39066
+
+Edwards Community Center
+108 MOUNT MORIAH ROAD, EDWARDS MS
+
+Hinds
+
+Precinct 26
+
+True Worship Ministry
+5019 CLINTON BLVD, JACKSON MS 39209
+
+Fire Station #15
+4943 CLINTON BLVD JACKSON MS 39209
+
+Chickasaw
+Choctaw
+Covington
+
+Hinds
+
+Precinct 45
+
+St. Phillips Episcopal Church
+5400 OLD CANTON RD JACKSON MS 39211
+
+McLeod Elementary School
+1616 SANDLEWOOD PLACE JACKSON MS 39211
+
+Hinds
+
+Precinct 49
+
+JSU – Jacob L. Reddix Campus Union
+1400 J R LYNCH ST JACKSON MS 39217
+
+JSU – Athletic and Assembly Building
+1400 J R LYNCH ST JACKSON MS 39217
+
+Hinds
+
+Precinct 94
+
+Higher Ground Family Worship
+3520 FOREST HILL RD JACKSON MS 39212
+
+Willowood Community Center
+4243 WILL O WOOD BLVD JACKSON MS 39212
+
+Hinds
+
+Pinehaven
+
+Federation Towers
+301 FEDERATION DR CLINTON MS 39056
+
+Sumner Hill Junior High School
+400 W NORTHSIDE DRIVE CLINTON MS 39056
+
+Kemper
+
+Porterville
+
+Old Porterville School
+155 Scooba Rd., Porterville, MS 39352
+
+Porterville Fire Dept.
+42 T Square, Porterville, MS 39352
+
+Kemper
+
+Fort Stevens
+
+672 Hwy 495 S, Dekalb, MS 39328
+
+Bella-Villa Comm. Ctr.
+86 Willie Glass Rd., Bailey, MS 39320
+
+Burgess
+
+Oasis Church, 861 Hwy 6 West, Oxford, MS 38655
+
+Clear Creek Baptist Church
+46 County Rd 313, Oxford, MS 39655
+
+Lauderdale
+
+126
+
+Masonic Lodge, 9198 Hillwive Dr., Meridian, MS 39305
+
+Gracepointe Fellowship
+8522 Hwy 39 N, Meridian, MS 39305
+
+Lauderdale
+
+237
+
+First Baptist Church
+3659 Lauderdale Rd., Lauderdale, MS 39335
+
+Gateway Church
+3750 Lauderdale Rd, Lauderdale, MS 39335
+
+Harmony
+
+3100 Galilee Rd, Carthage, MS 39051
+
+Galilee M.B. Church Fellowship Hall
+1867 Galilee Rd., Carthage, MS 39051
+
+Lee
+
+Pleasant Grove
+
+779 RD R06, Shannon, MS 38868
+
+Pleasant Grove Precinct Building
+814 RD 506, Shannon, MS 38868
+
+Lee
+
+Tupelo 4 South
+
+Morning Star Baptist
+2840 Willie Moore Rd., Tupelo, MS 38801
+
+Haven Acres Boys & Girls Club
+3288 Willie Moore Rd, Tupelo, MS 38801
+
+Trinity
+
+Trinity Retirement Home
+300 Airline Rd, Columbus, MS 39702
+
+Trinity Retirement Home
+146 South McCrary Rd., Columbus, MS 39702
+
+Lafaye�e
+
+Leake
+
+Lowndes
+
+Madison
+
+207
+
+Madison Cultural Center
+2103 Main St., Madison, MS 39110
+
+Pilgrim Rest MB Church
+852A Madison Ave., Madison, MS 39110
+
+Madison
+
+521
+
+Catholic Parish Center
+238 E Center St., Canton, MS 39046
+
+Jimme M. Goodloe Elementary
+551 Finney Rd., Canton, MS 39046
+
+Marion
+
+Union
+
+Keno Fire Station
+1438 Lapton Hilltop Rd, Columbia, MS 39429
+
+Baylis Chapel United Methodist Church
+13 E Baylis Chapel Rd., Columbia, MS 39429
+
+Marion
+
+Carley
+
+Carley Lodge
+77 Bunker Hill Rd., Columbia, MS 39429
+
+Bunker Hill Baptist Church
+63 Bunker Hill Rd., Columbia, MS 39429
+
+Marion
+
+Cedar Grove
+
+2363 Hwy 13 N, Columbia, MS 39429
+
+Cedar Grove Baptist Church
+44 Cedar Grove Rd., Columbia, MS 39429
+
+Marion
+
+Goss
+
+Tri-Community Fire Dept.
+3214 Hwy 13 N, Columbia, MS 39429
+
+Goss Baptist Church
+20 Mark McArthur Dr., Columbia, MS 39429
+
+Marion
+
+Pine Burr
+
+Pine Burr Fire Dept.
+1079 Pine Burr Rd, Columbia, MS 39429
+
+Church of the Lord Jesus Christ
+734 Pine Burr Rd., Columbia, MS 39429
+
+Marshall
+
+North Cayce
+
+Marshall County Workforce Ctr.
+4700 Cayce Rd., Byhalia, MS 38611
+
+Royal Chapel CME Church
+7085 Hwy 72 E, Byhalia, MS 38611
+
+Noxubee
+
+EARL NASH
+
+Central Administration Building (Gymnasium)
+37 Gandy/Tindal Rd., Macon, MS 39341
+
+Noxubee Human Resource Building
+149 Wayne St., Macon, MS 39341
+
+Pren�ss
+
+Thrasher
+
+Thrasher School, 167 CR 1040, Booneville, MS 38829
+
+Prentiss Co. Agricenter
+2301 North Second St., Booneville, MS 38829
+
+Simpson
+
+Braxton
+
+Braxton Masonic Lodge
+124 W Main St., Braxton, MS 39044
+
+Braxton Community Center
+128 W Main St., Braxton, MS 39044
+
+McHenry
+
+McHenry First Station
+95 McHenry Ave., McHenry, MS 39573
+
+McHenry Pulblic Library
+87 McHenry Ave., McHenry, MS 39561
+
+Ruleville North
+
+Williams Chapel M.B. Church
+804 Langdon & Byron St, Ruleville, MS 38771
+
+Fannie Lou Hamer Building
+710 Buron St., Ruleville, MS 38771
+
+Stone
+Sunﬂower
+
+Tippah
+
+Brownﬁeld
+
+Camburn Builidng
+31440 Hwy. 15, N. Walnut, MS 38683
+
+Brownﬁeld Baptist Church
+270 CR 120, Walnut, MS 38683
+
+Tippah
+
+Chalybeate
+
+Chalybeate Elementary School
+2471 Highway 354, Walnut, MS 38683
+
+Chalybeate Voting Precinct
+4530 CR 201, Walnut, MS 38683
+
+Tippah
+
+Tiplersville
+
+North Tippah Superindent’s Oﬃce
+24111 Hwy 15, Tipersville, MS 38674
+
+North Tippah Voting Precinct
+1171 CR 316 Tiplersville, MS 38675
+
+Tippah
+
+Falkner
+
+Falkner Elementary School
+20771 Hwy. 15, Falkner, MS 38629
+
+Falkner Townhall
+10071 CR 200, FALKNER MS 38629
+
+Warren
+
+Cherry Street
+
+1837 Cherry St, Vicksburg, MS 39180
+
+Se-’ren Venue
+2000 Drummon St., Vicksburg, MS 39180
+
+Webster
+
+Eupora No. 3
+
+Diversicare of Europa
+156 E. Walnut Ave., Eupora, MS 39744
+
+Crossway Church
+811 Veterans Memorial Blvd, Eupora, MS 39744
+
+Wilkinson
+
+Woodvile 2nd
+
+Rec Center
+1823 Hwy 24 West, Woodvile, MS 39669
+
+Zion Hill Baptist Church
+116 Bilbo St., Woodville, MS 39669
+
+Winston
+
+Lovorn Tractor
+
+Lovorn Tractor
+17326 East John C. Stennis Dr., Louisville, MS 39339
+
+Lovorn Tractor
+18160 East John C. Stennis Dr., Louisville, MS 39339
+
+Fugates
+
+Scotland Store, Scotland Rd., Benton, MS, 39039
+
+Fugates
+5750 Campbell Rd, Benton, MS 39339
+
+Yazoo
+
+
