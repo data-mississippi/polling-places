@@ -1,15 +1,7 @@
-all: clean build
+all : extracted/PollingPlaceChanges.json
 
-# textracted : intermediate/%.jpg
-
-# images: raw/PollingPlaceChanges.pdf
-
-# intermediate/PollingPlaceChanges : raw/PollingPlaceChanges.pdf
-# 	echo $^
-# 	echo $(basename $*)
-# 	python scripts/pdf_to_image.py $^ $*
-
-JPG = $(ls intermediate/%.jpg)
+clean :
+	rm -rf intermediate/* extracted/*
 
 extracted/%.json : raw/%.pdf
 	echo $<
